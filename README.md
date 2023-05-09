@@ -33,10 +33,16 @@ If you use this code in your research, please consider citing:
 ```
 ```bibTeX
 @article{Duruisseaux2023NPMapCode,
-	author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
-	title   = {Code Demonstration: Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
-	year   = {2023}
+title = {Code Demonstration: Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
+author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
+doi = {10.2172/1972078},
+url = {https://www.osti.gov/biblio/1972078}, 
+year = {2023}
 }
 ```
+
+
+
+
 
 The software is available under the [MIT License](https://github.com/vduruiss/SymplecticGyroceptron/blob/main/LICENSE).
