@@ -27,17 +27,17 @@ If you use this code in your research, please consider citing:
 	author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
 	title  = {Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
 	url    = {https://arxiv.org/abs/2210.05087},
-	year   = {2022}
+	year   = {2023}
 	
 }
 ```
 ```bibTeX
 @article{Duruisseaux2023NPMapCode,
-title = {Code Demonstration: Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
-author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
-doi = {10.2172/1972078},
-url = {https://www.osti.gov/biblio/1972078}, 
-year = {2023}
+	title = {Code Demonstration: Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
+	author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
+	doi = {10.2172/1972078},
+	url = {https://www.osti.gov/biblio/1972078}, 
+	year = {2023}
 }
 ```
 
