@@ -11,7 +11,7 @@ This repository provides a simplified version of the Python/TensorFlow code used
 
    [**Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks.**](https://arxiv.org/abs/2210.05087)
 <br />
-   Valentin Duruisseaux, Joshua W. Burby, and Qi Tang, *2022.*
+   Valentin Duruisseaux, Joshua W. Burby, and Qi Tang, *2023.*
 
 
 <br />
