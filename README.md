@@ -17,10 +17,6 @@ This repository provides a simplified version of the Python/TensorFlow code used
 <br />
 
 
-```
-The code will be available here soon...
-```
-
 
 <hr>
 
