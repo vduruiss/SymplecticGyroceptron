@@ -23,7 +23,7 @@ If you use this code in your research, please consider citing:
 
 
 ```bibTeX
-@article{Duruisseaux2022NPMap,
+@article{Duruisseaux2023NPMap,
 	author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
 	title  = {Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
 	url    = {https://arxiv.org/abs/2210.05087},
