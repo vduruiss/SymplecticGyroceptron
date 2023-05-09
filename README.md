@@ -16,8 +16,9 @@ This repository provides a simplified version of the Python/TensorFlow code used
 
 <br />
 
+This code is also available at  [https://www.osti.gov/biblio/1972078/](https://www.osti.gov/biblio/1972078/)
 
-
+<br />
 
 If you use this code in your research, please consider citing:
 
