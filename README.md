@@ -18,9 +18,6 @@ This repository provides a simplified version of the Python/TensorFlow code used
 
 
 
-<hr>
-
-## Additional Information
 
 If you use this code in your research, please consider citing:
 
