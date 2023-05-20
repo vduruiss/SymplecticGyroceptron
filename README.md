@@ -84,10 +84,10 @@ If you use this code in your research, please consider citing:
 ```bibTeX
 @article{Duruisseaux2023NPMap,
 	author = {V. Duruisseaux, and J. W. Burby, and Q. Tang},
-	title  = {Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
-	url    = {https://arxiv.org/abs/2210.05087},
-	year   = {2023}
-	
+	title = {Approximation of nearly-periodic symplectic maps via structure-preserving neural networks},
+	journal = {Scientific Reports, Collection on ``Physics-informed Machine Learning and its real-world applications"},
+   	doi = {10.1038/s41598-023-34862-w},
+	year = {2023}
 }
 ```
 ```bibTeX
