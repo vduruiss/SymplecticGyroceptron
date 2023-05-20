@@ -16,9 +16,65 @@ This repository provides a simplified version of the Python/TensorFlow code used
    *Scientific Reports, Collection on "Physics-informed Machine Learning and its real-world applications"*, 2023.
 
 
+
+
 <br />
 
-This code is also pubished and available at  [https://www.osti.gov/biblio/1972078/](https://www.osti.gov/biblio/1972078/)
+
+<hr>
+
+## List of Files
+
+
+The code is provided in two different formats
+
+```
+    NPMap_Learning.py     NPMap_Learning.ipynb
+```
+
+<br />
+
+These codes contain detailed explanations with equations in LaTeX which are better rendered in the Jupyter notebook version.
+
+<br />
+
+The directory  [`./TrainingWeights/`](TrainingWeights)  contains the weights of the trained model whose results are presented in Figure 5 of our paper.
+
+These weights can be loaded into the model by setting
+```
+    train = False
+```
+
+
+
+<br />
+
+
+<hr>
+
+## Usage
+
+```
+    python ./NPMap_Learning.py
+```
+
+
+
+<br />
+<hr>
+
+
+
+
+
+
+
+
+## Additional Information
+
+<br />
+
+This code is also published and available at  [https://www.osti.gov/biblio/1972078/](https://www.osti.gov/biblio/1972078/)
 
 <br />
 
