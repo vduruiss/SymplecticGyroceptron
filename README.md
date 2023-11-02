@@ -13,7 +13,9 @@ This repository provides a simplified version of the Python/TensorFlow code used
 <br />
    Valentin Duruisseaux, Joshua W. Burby, and Qi Tang.
    <br />
-   *Scientific Reports, Collection on "Physics-informed Machine Learning and its real-world applications"*, vol. 13, no. 8351, 2023.
+   *Scientific Reports, vol. 13, no. 8351, 2023.
+<br />
+   Collection on "Physics-informed Machine Learning and its real-world applications"*
 
 
 
