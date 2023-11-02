@@ -9,11 +9,11 @@ This repository provides a simplified version of the Python/TensorFlow code used
 
 
 
-   [**Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks.**](https://arxiv.org/abs/2210.05087)
+   [**Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks.**](https://doi.org/10.1038/s41598-023-34862-w)
 <br />
    Valentin Duruisseaux, Joshua W. Burby, and Qi Tang.
    <br />
-   *Scientific Reports, Collection on "Physics-informed Machine Learning and its real-world applications"*, 2023.
+   *Scientific Reports, Collection on "Physics-informed Machine Learning and its real-world applications"*, vol. 13, no. 8351, 2023.
 
 
 
